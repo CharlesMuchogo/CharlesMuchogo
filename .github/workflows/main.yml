@@ -1,4 +1,4 @@
-name: Work Stats Readme
+name: CharlesMuchogo
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: CharlesMuchogo
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
