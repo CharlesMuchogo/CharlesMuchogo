@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */1 * * *"
+permissions: read-all|write-all
 
 jobs:
   update-readme:
