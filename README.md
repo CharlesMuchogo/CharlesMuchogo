@@ -9,4 +9,8 @@ I'm Charles, currently a mobile developer working with Flutter and Java
 - 📫 How to reach me: +254758896593
 - 😄 Pronouns: He
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
