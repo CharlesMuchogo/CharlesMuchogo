@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile!
 
-I'm Charles, currently a mobile developer working with Flutter and Java.
+I'm Charles, currently a mobile developer working with Kotlin, Flutter and Java.
 
-🔭 I’m currently working on Android applications with Java and Flutter.
-🌱 I’m currently learning Golang and Kotlin.
-💃 I’m looking to collaborate on your exciting project within my tech stack.
-💬 Ask me about Flutter, Dart, and Java.
-📫 How to reach me: +254758896593
-😄 Pronouns: He
+- 🔭 I’m currently working on Android applications with Java and Flutter.
+- 🌱 I’m currently learning Backend development with Golang.
+- 💃 I’m looking to collaborate on your exciting project within my tech stack.
+- 💬 Ask me about Flutter, Kotlin, and Java.
+- 📫 How to reach me: +254758896593
+- 😄 Pronouns: He
 
 
 <!--START_SECTION:waka-->
