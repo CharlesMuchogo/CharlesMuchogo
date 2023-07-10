@@ -11,9 +11,6 @@ I'm Charles, currently a mobile developer working with Kotlin, Flutter and Java.
 - 📫 How to reach me: +254758896593
 - 😄 Pronouns: He
 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,go,firebase,github,aws)](https://skillicons.dev)
 
 
