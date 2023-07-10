@@ -1,13 +1,16 @@
-### Hi there 👋
-Welcome to my github profile
+# Hi there! :wave:
 
-I'm Charles, currently a mobile developer working with Flutter and Java
-- 🔭 I’m currently working on Android applications with Java and Flutter
-- 🌱 I’m currently learning Golang and Kotlin
-- 👯 I’m looking to collaborate on your exciting project within my techstack
-- 💬 Ask me about Flutter, Dart and Java.
-- 📫 How to reach me: +254758896593
-- 😄 Pronouns: He
+Welcome to my GitHub profile!
+
+I'm Charles, currently a mobile developer working with Flutter and Java.
+
+🔭 I’m currently working on Android applications with Java and Flutter.
+🌱 I’m currently learning Golang and Kotlin.
+💃 I’m looking to collaborate on your exciting project within my tech stack.
+💬 Ask me about Flutter, Dart, and Java.
+📫 How to reach me: +254758896593
+😄 Pronouns: He
+
 
 <!--START_SECTION:waka-->
 
