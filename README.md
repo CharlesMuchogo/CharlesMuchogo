@@ -13,5 +13,5 @@ I'm Charles, currently a mobile developer working with Kotlin, Flutter and Java.
 
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,go,firebase,github,aws,androidstudio)](https://skillicons.dev)
 
-
+<!--[![My Skills](https://github-readme-stats.vercel.app/api?username=CharlesMuchogo&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)] -->
 
