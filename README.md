@@ -8,7 +8,7 @@ I'm Charles, currently a mobile developer working with Kotlin, Flutter and Java.
 - 🌱 I’m currently learning Backend development with Golang.
 - 💃 I’m looking to collaborate on your exciting project within my tech stack.
 - 💬 Ask me about Flutter, Kotlin, Java and Golang.
-- 📫 How to reach me: +254758896593, charlesmuchogo07@gmail.com
+- 📫 How to reach me: +254758896593, muchpaul2@gmail.com
 - 😄 Pronouns: He
 
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,go,firebase,github,aws,androidstudio)](https://skillicons.dev)
