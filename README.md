@@ -4,7 +4,6 @@ I'm Charles.
 - 🔭 I’m working on projects involving Kotlin Android, Kotlin Multiplatform, Golang and Java.
 - 📫 Reach me via my email address, muchpaul2@gmail.com
 
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,firebase,github,aws,androidstudio)](https://skillicons.dev)
 
 <!--[![My Skills](https://github-readme-stats.vercel.app/api?username=CharlesMuchogo&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)] -->
 ![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=CharlesMuchogo&show_icons=true&locale=en&layout=compact&theme=tokyonight)
