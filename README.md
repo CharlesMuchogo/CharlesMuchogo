@@ -1,8 +1,8 @@
 # Hi! :wave:
 
 I'm Charles.
-- 🔭 I’m working on projects involving Kotlin Android, Kotlin Multiplatform, Golang and Java.
-- 📫 Reach me via my email address, muchpaul2@gmail.com
+- 🔭 I’m working on projects involving Kotlin Android, Kotlin Multiplatform and Golang.
+- 📫 Reach me via my email address, charlesmuchogo07@gmail.com
 
 
 <!--[![My Skills](https://github-readme-stats.vercel.app/api?username=CharlesMuchogo&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)] -->
