@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Charles Muchogo
 
-I'm a **Full-Stack Product Engineer** who builds intuitive, reliable software across mobile, backend, and web platforms. I focus on crafting seamless developer and user experiences through clean code, thoughtful design, and scalable systems.
+I'm a **Software Engineer** who builds intuitive, reliable software across mobile, backend, and web platforms. I focus on crafting seamless developer and user experiences through clean code, thoughtful design, and scalable systems.
 
 ---
 
